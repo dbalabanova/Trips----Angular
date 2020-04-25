@@ -1,7 +1,5 @@
 # Trips -- Angular
- 
- # Project Vue-JS
- Trips
+
 
 ## Idea
 An app that stores useful information about trips to different destinations.
